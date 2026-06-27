@@ -2,7 +2,7 @@
 
 # Hey there! 👋 I'm **Sehejnit Thakur**
 
-### 🛡️ Cybersecurity Enthusiast | 🤖 ML Engineer | 🚀 Full-Stack Developer
+### 🛡️ Cybersecurity Enthusiast | 🚀 Full-Stack Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sehejnit-thakur)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nitsehej1@gmail.com)
